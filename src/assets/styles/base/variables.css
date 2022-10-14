@@ -1,0 +1,14 @@
+:root {
+    /* colors */
+    --smooth-black: #1D1D1D;
+    --strong-blue: #394867;
+    --light-blue: #8593AD;
+    --button-primary: #14274E;
+    --button-primary-shadow: #091122;
+    --button-remove: #8C2424;
+    --button-expired: #848484;
+    --white-smoke: #F1F6F9;
+
+    /* fonts */
+    --font-bitter: 'Bitter'
+}
