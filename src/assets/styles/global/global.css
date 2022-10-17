@@ -9,9 +9,13 @@
 }
 
 .background {
-    background-color: var(--white-smoke);
     width: 100%;
     min-height: 100vh;
+
+}
+
+.padding-header {
+    padding-top: var(--padding-header);
 }
 
 button {

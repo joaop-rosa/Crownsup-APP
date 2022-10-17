@@ -1,5 +1,5 @@
 import { Routes, Route } from "react-router-dom";
-import { Login, Register } from "./UI/screens";
+import { Login, Register, Home } from "./UI/screens";
 import './assets/styles/base/reset.css'
 import './assets/styles/base/variables.css'
 import './assets/styles/global/global.css'
@@ -16,6 +16,10 @@ function App() {
         <Register />
       }>
       </Route>
+      <Route path="/home" element={
+        <Home />
+      }></Route>
+
     </Routes>
   );
 }

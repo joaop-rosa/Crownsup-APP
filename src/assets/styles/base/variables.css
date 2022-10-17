@@ -10,5 +10,8 @@
     --white-smoke: #F1F6F9;
 
     /* fonts */
-    --font-bitter: 'Bitter'
+    --font-bitter: 'Bitter';
+
+    /* metrics */
+    --padding-header: 110px;
 }
