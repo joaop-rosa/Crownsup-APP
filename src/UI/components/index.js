@@ -1,2 +1,3 @@
-import { Header } from "./Header/Header.component";
-import { SearchBar } from "react-router-dom";
+export { Header } from "./Header/Header.component"
+export { SearchBar } from "./SearchBar/SearchBar.component"
+export { FormField } from "./FormField/FormField.components"
